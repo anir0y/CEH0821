@@ -1,4 +1,4 @@
-TODO:
+TODO: due!
 =======
 
 1. bash configuration
