@@ -1,0 +1,35 @@
+{
+  "email": "animeshroy@live.com",
+  "reputation": "high",
+  "suspicious": false,
+  "references": 18,
+  "details": {
+    "blacklisted": false,
+    "malicious_activity": false,
+    "malicious_activity_recent": false,
+    "credentials_leaked": true,
+    "credentials_leaked_recent": false,
+    "data_breach": true,
+    "first_seen": "07/01/2008",
+    "last_seen": "03/24/2021",
+    "domain_exists": true,
+    "domain_reputation": "n/a",
+    "new_domain": false,
+    "days_since_domain_creation": 9737,
+    "suspicious_tld": false,
+    "spam": false,
+    "free_provider": true,
+    "disposable": false,
+    "deliverable": true,
+    "accept_all": false,
+    "valid_mx": true,
+    "primary_mx": "live-com.olc.protection.outlook.com",
+    "spoofable": true,
+    "spf_strict": true,
+    "dmarc_enforced": false,
+    "profiles": [
+      "twitter",
+      "gravatar"
+    ]
+  }
+}
