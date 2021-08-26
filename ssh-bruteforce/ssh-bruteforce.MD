@@ -12,16 +12,22 @@ user.txt
 --------
 
 admin
+
 root
+
 kali
+
 mentor
+
 praveen
+
 anmol
 
 pass.txt
 --------
 
 kali
+
 toor
 
 ---
@@ -33,4 +39,4 @@ hydra -L user.txt -P pass.txt ssh://localhost
 
 -L : userID file
 -P : Password file 
-
+```
