@@ -16,6 +16,5 @@
    * [user.txt](./ssh-bruteforce/user.txt)
    * [pass.txt](./ssh-bruteforce/pass.txt)
    * [index.md](./ssh-bruteforce/index.md)
- * [index.html](./index.html)
- * [README.md](./README.md)
  * [publish.sh](./publish.sh)
+ * [README.md](./README.md)
