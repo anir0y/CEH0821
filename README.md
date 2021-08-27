@@ -18,3 +18,4 @@
    * [index.md](./ssh-bruteforce/index.md)
  * [publish.sh](./publish.sh)
  * [README.md](./README.md)
+ * [cyber-killchain](./cyber-killchain)
