@@ -19,3 +19,4 @@
  * [publish.sh](./publish.sh)
  * [README.md](./README.md)
  * [cyber-killchain](./cyber-killchain)
+     * [index.md](./cyber-killchain/index.md)
